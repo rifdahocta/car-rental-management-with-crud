@@ -46,8 +46,7 @@ This project is a console-based application that helps manage a car rental busin
 car-rental-management-with-crud/
 │
 ├── main.py
-├── README.md
-└── assets/
+└── README.md
 ```
 
 ## How to Run
